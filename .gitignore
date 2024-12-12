@@ -1,6 +1,10 @@
+# Common
 .DS_Store
-/node_modules/
+*/node_modules/
+
+# Fastify
+/server/build/
 
 # React Router
-/.react-router/
-/build/
+/client/.react-router/
+/client/build/
